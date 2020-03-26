@@ -1,6 +1,3 @@
-# be-the-hero
-OmniStack week repository
-
 /**
  *  Rota / Recurso
  */
